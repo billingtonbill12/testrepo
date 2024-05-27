@@ -1,1 +1,1 @@
-b'b"goober\\nworld\'s worst code\\nwaaawdawd"'
+b"goober\nworld's worst code\nwaaawdawd"
