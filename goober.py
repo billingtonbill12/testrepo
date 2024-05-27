@@ -1,1 +1,0 @@
-b"goober\nworld's worst code\nwaaawdawd"
