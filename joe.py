@@ -1,4 +1,1 @@
-real replacement
-graaaahhh!!!
-ewkfwlkefmegmelkrmglktrmgtr
-what
+b'real replacement\ngraaaahhh!!!\newkfwlkefmegmelkrmglktrmgtr\nwhat\n'

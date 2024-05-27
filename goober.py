@@ -1,3 +1,1 @@
-goober
-world's worst code
-waaawdawd
+b"goober\nworld's worst code\nwaaawdawd"
