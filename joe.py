@@ -1,1 +1,1 @@
-b'real replacement\ngraaaahhh!!!\newkfwlkefmegmelkrmglktrmgtr\nwhat\n'
+b"b'real replacement\\ngraaaahhh!!!\\newkfwlkefmegmelkrmglktrmgtr\\nwhat\\n'"
